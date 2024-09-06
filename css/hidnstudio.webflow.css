@@ -1077,6 +1077,11 @@ figcaption {
   line-height: 160%;
 }
 
+.text-size-medium.slightpadding.about {
+  margin-bottom: 15px;
+  padding-top: 10px;
+}
+
 .text-size-tiny {
   font-size: .75rem;
   line-height: 160%;
@@ -1761,6 +1766,7 @@ figcaption {
 }
 
 .clip {
+  padding-bottom: 3px;
   overflow: hidden;
 }
 
